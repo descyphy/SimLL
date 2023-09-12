@@ -2,7 +2,7 @@ This repo contains designs locked using **SimLL:Similarity-Based Logic Locking A
 
 ## Locked Designs
 
-Benchmark designs from ISCAS'85 and ITC'99 are locked using different key sizes. The formt of the locked designs is .bench. The key size is included in the file name.
+Benchmark designs from ISCAS'85 and ITC'99 are locked using different key sizes. The formt of the locked designs is bench. The key size is included in the file name.
 
 Example: c1355\_K64.bench - c1355 benchmark is locked with 64 key bits.
 
